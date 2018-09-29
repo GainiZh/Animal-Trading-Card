@@ -1,0 +1,43 @@
+/* add your CSS here */
+.card{
+  box-sizing: border-box;
+  border: solid 1px #ddd;
+  box-shadow: 10px 10px 5px #ddd;
+  width: 325px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+.card h3{
+  margin: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+.picture{
+  width: 300px;
+  margin-bottom: 10px;
+}
+.picture img{
+  border-radius: 5px;
+}
+.information{
+  border: solid 1px #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+.fact{
+  font-style: italic;
+}
+.information ul li span{
+  font-weight: bold;
+}
+.information ul li{
+  list-style: none;
+  margin: auto;
+  padding: 0px;
+  text-align: left;
+}
+.sources{
+  font-size: 15px;
+  padding-left: 15px;
+}
